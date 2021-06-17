@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kike
+- 👋 Hi, I’m Enrique (but call me Kike)
 - 👀 I’m interested in Data Science, Machine Learning and Data Engineering
 - 🌱 I’m currently building my path into a Data Science carrer
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning or Data Engineering teams
